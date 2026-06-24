@@ -4,7 +4,7 @@
 =======
 #variable:
 ##assign values:-
->>>>>>> 3ea4a262bfd03b841ffd03f53c72622bce591bdc
+
 - spam = 40
 - spam = spam+2
 - spam 40
@@ -15,14 +15,14 @@
 ### Rules:
 =======
 ###Rules:
->>>>>>> 3ea4a262bfd03b841ffd03f53c72622bce591bdc
+
 
 - Cannot contain spaces
 - Cannot begin with a number
 - Cannot be a Python keyword ('if','for','while' etc.)
 - Can only contain letters, numbers, and underscores ('_')
 - Hyphens ('-') are not allowed
-<<<<<<< HEAD
+
 - Special characters such as '$','!','&' are not allowed
 - Variable names are case-sensitive
 
@@ -32,14 +32,13 @@
 - Variable names are case-sensitive
 
 ###Examples:
->>>>>>> 3ea4a262bfd03b841ffd03f53c72622bce591bdc
+
 
 '''python
 name = "John"
 user_name = "John"
 age2 = 19
 '''
-<<<<<<< HEAD
 
 ### comments:-
 - python ignores comments you can use tem to remind yourself about code
@@ -53,7 +52,6 @@ age2 = 19
 suppose, name=input("enter your name? ")
 print("hello, " +name)
 - can only concatenate str
-=======
 
 ---
 
