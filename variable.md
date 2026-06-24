@@ -1,28 +1,28 @@
 #variable:
-#assign values:-
-spam = 40
-spam = spam+2
-spam 40
-so everytime you assign new value old value is forgotten or replace
+##assign values:-
+- spam = 40
+- spam = spam+2
+- spam 40
+- so everytime you assign new value old value is forgotten or replace
 ## Variable Names
 
-Rules:
+###Rules:
 
 - Cannot contain spaces
 - Cannot begin with a number
-- Cannot be a Python keyword (`if`, `for`, `while`, etc.)
-- Can only contain letters, numbers, and underscores (`_`)
-- Hyphens (`-`) are not allowed
-- Special characters such as `$`, `@`, `!` are not allowed
+- Cannot be a Python keyword ('if','for','while' etc.)
+- Can only contain letters, numbers, and underscores ('_')
+- Hyphens ('-') are not allowed
+- Special characters such as '$', ''@', '!' are not allowed
 - Variable names are case-sensitive
 
-Examples:
+###Examples:
 
-```python
+'''python
 name = "John"
 user_name = "John"
 age2 = 19
-```
+'''
 
 ---
 
